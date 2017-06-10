@@ -22,6 +22,5 @@ import LLVM.AST.Tagged.Name
 import LLVM.AST.Tagged.Type (Type(..), FloatingPointType(..))
 import LLVM.AST.Tagged.Global
 import LLVM.AST.Tagged.Operand
-import LLVM.AST.Tagged.Instruction
+import LLVM.AST.Tagged.Instruction (Instruction(..), Terminator(..))
 import LLVM.AST.Tagged.DataLayout
-
